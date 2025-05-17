@@ -1,2 +1,13 @@
-# An-lise-e-Processamento-de-Dados-de-Vendas-de-Autom-veis
-Este relatório técnico descreve o processo de análise e tratamento de dados de vendas de automóveis, utilizando técnicas de pré-processamento, consultas SQL e análises estratégicas. 
+# Relatório Técnico - Media Monks 2025
+
+Repositório com o relatório técnico para o Processo Seletivo Tech 2025 da Media Monks.
+
+## Arquivos
+- [Relatório Técnico (Markdown)](relatorio_tecnico.md)
+- [Notebook Jupyter](SQLtest_kymie.ipynb)
+- [Dados Corrigidos](dados_corrigidos.json)
+- [Marcas Corrigidas](marcas_corrigidas.json)
+
+## Acesso
+- Visualize o relatório diretamente no GitHub ou via [Google Drive](#).
+  
