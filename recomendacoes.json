@@ -1,0 +1,362 @@
+[
+  {
+    "marca":"Chevrolet ",
+    "nome":"onix",
+    "total_vendas":33,
+    "receita_total":1418400,
+    "preco_medio":43355.5555555556,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Mobi",
+    "total_vendas":414,
+    "receita_total":14747000,
+    "preco_medio":38666.6666666667,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Cronos",
+    "total_vendas":4,
+    "receita_total":320000,
+    "preco_medio":80000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Uno",
+    "total_vendas":8,
+    "receita_total":191000,
+    "preco_medio":22750.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"argo",
+    "total_vendas":4,
+    "receita_total":154000,
+    "preco_medio":38500.0,
+    "recomendacao":"Alto volume - revisar margens",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Palio",
+    "total_vendas":3,
+    "receita_total":35000,
+    "preco_medio":11666.6666666667,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"E-JS1",
+    "total_vendas":6,
+    "receita_total":870000,
+    "preco_medio":145000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"E-J7",
+    "total_vendas":1,
+    "receita_total":270000,
+    "preco_medio":270000.0,
+    "recomendacao":"Alta receita - potencial para aumentar volume",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"J2",
+    "total_vendas":14,
+    "receita_total":165000,
+    "preco_medio":12111.1111111111,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"J5",
+    "total_vendas":5,
+    "receita_total":125000,
+    "preco_medio":25000.0,
+    "recomendacao":"Alto volume - revisar margens",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Kia",
+    "nome":"Picanto",
+    "total_vendas":338,
+    "receita_total":13243000,
+    "preco_medio":41750.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Kia",
+    "nome":"Cerato",
+    "total_vendas":6,
+    "receita_total":254000,
+    "preco_medio":43000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Kia",
+    "nome":"Rio",
+    "total_vendas":1,
+    "receita_total":89000,
+    "preco_medio":89000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"Pajero",
+    "total_vendas":13,
+    "receita_total":2680000,
+    "preco_medio":220000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"L200",
+    "total_vendas":10,
+    "receita_total":2580000,
+    "preco_medio":270000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"Lancer",
+    "total_vendas":14,
+    "receita_total":990000,
+    "preco_medio":72000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"Eclipse",
+    "total_vendas":1,
+    "receita_total":124000,
+    "preco_medio":124000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Nissan",
+    "nome":"March",
+    "total_vendas":23,
+    "receita_total":601000,
+    "preco_medio":26428.5714285714,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"208",
+    "total_vendas":90,
+    "receita_total":7425000,
+    "preco_medio":82400.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"2008",
+    "total_vendas":7,
+    "receita_total":570000,
+    "preco_medio":85000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"206",
+    "total_vendas":6,
+    "receita_total":72000,
+    "preco_medio":12000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"307",
+    "total_vendas":1,
+    "receita_total":19000,
+    "preco_medio":19000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Clio",
+    "total_vendas":30,
+    "receita_total":979000,
+    "preco_medio":30600.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Duster",
+    "total_vendas":11,
+    "receita_total":460000,
+    "preco_medio":47500.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Sandero",
+    "total_vendas":8,
+    "receita_total":374000,
+    "preco_medio":38000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Captur",
+    "total_vendas":5,
+    "receita_total":350000,
+    "preco_medio":70000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Sandero RS",
+    "total_vendas":3,
+    "receita_total":240000,
+    "preco_medio":80000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"Forester",
+    "total_vendas":28,
+    "receita_total":9800000,
+    "preco_medio":335000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"WRX",
+    "total_vendas":15,
+    "receita_total":3750000,
+    "preco_medio":250000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"XV",
+    "total_vendas":4,
+    "receita_total":1280000,
+    "preco_medio":320000.0,
+    "recomendacao":"Alta receita - potencial para aumentar volume",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"Brz",
+    "total_vendas":5,
+    "receita_total":1200000,
+    "preco_medio":240000.0,
+    "recomendacao":"Alto volume - revisar margens",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Toyota",
+    "nome":"Corolla",
+    "total_vendas":40,
+    "receita_total":4368000,
+    "preco_medio":108000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Toyota",
+    "nome":"Yaris",
+    "total_vendas":23,
+    "receita_total":1125000,
+    "preco_medio":53750.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Up",
+    "total_vendas":373,
+    "receita_total":14368000,
+    "preco_medio":41000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Saveiro",
+    "total_vendas":6,
+    "receita_total":360000,
+    "preco_medio":60000.0,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Gol",
+    "total_vendas":9,
+    "receita_total":288000,
+    "preco_medio":32666.6666666667,
+    "recomendacao":"Modelo estrela - manter\/maximizar",
+    "prioridade":"Foco principal"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"T-Cross",
+    "total_vendas":2,
+    "receita_total":180000,
+    "preco_medio":90000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Kombi",
+    "total_vendas":3,
+    "receita_total":125000,
+    "preco_medio":40000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Foco secund\u00e1rio"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Jetta",
+    "total_vendas":1,
+    "receita_total":120000,
+    "preco_medio":120000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Revis\u00e3o necess\u00e1ria"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Polo",
+    "total_vendas":1,
+    "receita_total":99000,
+    "preco_medio":99000.0,
+    "recomendacao":"Novo modelo - monitorar",
+    "prioridade":"Revis\u00e3o necess\u00e1ria"
+  }
+]

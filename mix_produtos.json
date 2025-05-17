@@ -1,0 +1,362 @@
+[
+  {
+    "marca":"Chevrolet ",
+    "nome":"onix",
+    "total_vendas":33,
+    "receita_total":1418400,
+    "contribuicao_receita":100.0,
+    "contribuicao_vendas":100.0,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Mobi",
+    "total_vendas":414,
+    "receita_total":14747000,
+    "contribuicao_receita":95.47,
+    "contribuicao_vendas":95.61,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Cronos",
+    "total_vendas":4,
+    "receita_total":320000,
+    "contribuicao_receita":2.07,
+    "contribuicao_vendas":0.92,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Uno",
+    "total_vendas":8,
+    "receita_total":191000,
+    "contribuicao_receita":1.24,
+    "contribuicao_vendas":1.85,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"argo",
+    "total_vendas":4,
+    "receita_total":154000,
+    "contribuicao_receita":1.0,
+    "contribuicao_vendas":0.92,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Fiat",
+    "nome":"Palio",
+    "total_vendas":3,
+    "receita_total":35000,
+    "contribuicao_receita":0.23,
+    "contribuicao_vendas":0.69,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"E-JS1",
+    "total_vendas":6,
+    "receita_total":870000,
+    "contribuicao_receita":60.84,
+    "contribuicao_vendas":23.08,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"E-J7",
+    "total_vendas":1,
+    "receita_total":270000,
+    "contribuicao_receita":18.88,
+    "contribuicao_vendas":3.85,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"J2",
+    "total_vendas":14,
+    "receita_total":165000,
+    "contribuicao_receita":11.54,
+    "contribuicao_vendas":53.85,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"JaC Motors",
+    "nome":"J5",
+    "total_vendas":5,
+    "receita_total":125000,
+    "contribuicao_receita":8.74,
+    "contribuicao_vendas":19.23,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Kia",
+    "nome":"Picanto",
+    "total_vendas":338,
+    "receita_total":13243000,
+    "contribuicao_receita":97.48,
+    "contribuicao_vendas":97.97,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Kia",
+    "nome":"Cerato",
+    "total_vendas":6,
+    "receita_total":254000,
+    "contribuicao_receita":1.87,
+    "contribuicao_vendas":1.74,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Kia",
+    "nome":"Rio",
+    "total_vendas":1,
+    "receita_total":89000,
+    "contribuicao_receita":0.66,
+    "contribuicao_vendas":0.29,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"Pajero",
+    "total_vendas":13,
+    "receita_total":2680000,
+    "contribuicao_receita":42.05,
+    "contribuicao_vendas":34.21,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"L200",
+    "total_vendas":10,
+    "receita_total":2580000,
+    "contribuicao_receita":40.48,
+    "contribuicao_vendas":26.32,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"Lancer",
+    "total_vendas":14,
+    "receita_total":990000,
+    "contribuicao_receita":15.53,
+    "contribuicao_vendas":36.84,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Mitsubishi",
+    "nome":"Eclipse",
+    "total_vendas":1,
+    "receita_total":124000,
+    "contribuicao_receita":1.95,
+    "contribuicao_vendas":2.63,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Nissan",
+    "nome":"March",
+    "total_vendas":23,
+    "receita_total":601000,
+    "contribuicao_receita":100.0,
+    "contribuicao_vendas":100.0,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"208",
+    "total_vendas":90,
+    "receita_total":7425000,
+    "contribuicao_receita":91.83,
+    "contribuicao_vendas":86.54,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"2008",
+    "total_vendas":7,
+    "receita_total":570000,
+    "contribuicao_receita":7.05,
+    "contribuicao_vendas":6.73,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"206",
+    "total_vendas":6,
+    "receita_total":72000,
+    "contribuicao_receita":0.89,
+    "contribuicao_vendas":5.77,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Peugeot ",
+    "nome":"307",
+    "total_vendas":1,
+    "receita_total":19000,
+    "contribuicao_receita":0.23,
+    "contribuicao_vendas":0.96,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Clio",
+    "total_vendas":30,
+    "receita_total":979000,
+    "contribuicao_receita":40.74,
+    "contribuicao_vendas":52.63,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Duster",
+    "total_vendas":11,
+    "receita_total":460000,
+    "contribuicao_receita":19.14,
+    "contribuicao_vendas":19.3,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Sandero",
+    "total_vendas":8,
+    "receita_total":374000,
+    "contribuicao_receita":15.56,
+    "contribuicao_vendas":14.04,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Captur",
+    "total_vendas":5,
+    "receita_total":350000,
+    "contribuicao_receita":14.57,
+    "contribuicao_vendas":8.77,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Renault",
+    "nome":"Sandero RS",
+    "total_vendas":3,
+    "receita_total":240000,
+    "contribuicao_receita":9.99,
+    "contribuicao_vendas":5.26,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"Forester",
+    "total_vendas":28,
+    "receita_total":9800000,
+    "contribuicao_receita":61.14,
+    "contribuicao_vendas":53.85,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"WRX",
+    "total_vendas":15,
+    "receita_total":3750000,
+    "contribuicao_receita":23.39,
+    "contribuicao_vendas":28.85,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"XV",
+    "total_vendas":4,
+    "receita_total":1280000,
+    "contribuicao_receita":7.99,
+    "contribuicao_vendas":7.69,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Subaru",
+    "nome":"Brz",
+    "total_vendas":5,
+    "receita_total":1200000,
+    "contribuicao_receita":7.49,
+    "contribuicao_vendas":9.62,
+    "classificacao_impacto":"M\u00e9dio impacto"
+  },
+  {
+    "marca":"Toyota",
+    "nome":"Corolla",
+    "total_vendas":40,
+    "receita_total":4368000,
+    "contribuicao_receita":79.52,
+    "contribuicao_vendas":63.49,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Toyota",
+    "nome":"Yaris",
+    "total_vendas":23,
+    "receita_total":1125000,
+    "contribuicao_receita":20.48,
+    "contribuicao_vendas":36.51,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Up",
+    "total_vendas":373,
+    "receita_total":14368000,
+    "contribuicao_receita":92.46,
+    "contribuicao_vendas":94.43,
+    "classificacao_impacto":"Alto impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Saveiro",
+    "total_vendas":6,
+    "receita_total":360000,
+    "contribuicao_receita":2.32,
+    "contribuicao_vendas":1.52,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Gol",
+    "total_vendas":9,
+    "receita_total":288000,
+    "contribuicao_receita":1.85,
+    "contribuicao_vendas":2.28,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"T-Cross",
+    "total_vendas":2,
+    "receita_total":180000,
+    "contribuicao_receita":1.16,
+    "contribuicao_vendas":0.51,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Kombi",
+    "total_vendas":3,
+    "receita_total":125000,
+    "contribuicao_receita":0.8,
+    "contribuicao_vendas":0.76,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Jetta",
+    "total_vendas":1,
+    "receita_total":120000,
+    "contribuicao_receita":0.77,
+    "contribuicao_vendas":0.25,
+    "classificacao_impacto":"Baixo impacto"
+  },
+  {
+    "marca":"Volkswagen",
+    "nome":"Polo",
+    "total_vendas":1,
+    "receita_total":99000,
+    "contribuicao_receita":0.64,
+    "contribuicao_vendas":0.25,
+    "classificacao_impacto":"Baixo impacto"
+  }
+]
